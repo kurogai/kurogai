@@ -7,9 +7,12 @@
 My name is Héber Júlio and I'm a Security Researcher. I'm from Angola, living in Luanda.
 
 ### Find me!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='40'>](https://github.com/kurogai)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height='40'>](https://www.linkedin.com/in/h%C3%A9ber-j%C3%BAlio-496120190/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' height='40'>](https://twitter.com/kurogai_pwn)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerone.svg' height='40'>](https://hackerone.com/kurogai/)
 
-## HackTheBox progress
+## Hackthebox Progress
 <img src="http://www.hackthebox.eu/badge/image/290062" alt="Hack The Box">
 
 ### Languages and Tools 🛠 
