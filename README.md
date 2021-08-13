@@ -4,7 +4,7 @@
 
 # Welcome here
 
-My name is Héber Júlio and I'm a Security Researcher. I'm from Angola, living in Luanda.
+My name is Héber Júlio . I work as an Web Developer from DENTEC Technology, and in my free time, i'm an Security Researcher with professional experience. I'm from Angola, living in Luanda.
 
 ### Find me!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='40'>](https://github.com/kurogai)
