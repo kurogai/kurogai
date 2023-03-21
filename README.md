@@ -30,6 +30,3 @@ My name is Héber Júlio . I'm an Security Researcher with professional experien
 
 ## Want to support my work?
 [<a href="https://www.buymeacoffee.com/heberjuliok" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>](https://www.buymeacoffee.com/heberjuliok)
-<p>
-<img src="baixados.png">
-</p>
